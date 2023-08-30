@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**zarinn3pal/zarinn3pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.webp" width="100"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/zarinn3pal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://nepalniraj.com.np/">
+    <img src="https://img.shields.io/badge/Homepage-grey?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage Badge"/>
+  </a>
+  <a href="https://twitter.com/zarinn3pal">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
