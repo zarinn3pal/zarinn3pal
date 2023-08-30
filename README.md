@@ -1,4 +1,4 @@
-### Hi there 👋
+### An engineer and Technology Enthusiast 👋
 
 <div align="center">
   <div id="header">
